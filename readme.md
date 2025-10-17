@@ -1,5 +1,36 @@
 # 💫 About Me:
-Hi, I’m Ella Lakshman 👋<br>I’m currently a B.Tech  student specializing in Data Science I’m passionate about building solutions that solve real-world problems, especially using MERN Stack<br><br>🔧 Current Projects:<br><br>A course learning platform where students can learn through videos and ai integrated where students can solve there questions thorough ai and they can also ask there carrer guidance in the community page.<br>Working on C programming examples to strengthen my coding skills.<br>💡 What I’m Learning:<br>Exploring Python and its applications in data science.<br>🚀 Goals:<br><br>To create projects that can make a positive impact.<br>To contribute to open-source communities.<br>Feel free to connect with me! Let’s collaborate and build something awesome 😊
+Hi, I’m Ella Lakshman 👋
+I’m currently pursuing B.Tech in Data Science at Mallareddy Institute of Technology and Sciences.
+I’m passionate about building real-world solutions using the MERN Stack and integrating AI to make learning and problem-solving smarter.
+
+💼 Current Internship:
+
+I’m currently interning at Bussiness X Data, where I’m working on real-world MERN stack development — integrating Razorpay payment gateways, managing MongoDB databases, and optimizing frontend-backend workflows for smooth user experiences.
+This internship is helping me gain strong hands-on experience in full-stack web development and real-time project deployment.
+
+🔧 Current Projects:
+
+💻 Freelancer Collaboration Platform (Mini Upwork) – A MERN stack project that connects freelancers and clients for real-time collaboration.
+
+📚 AI-Integrated Course Learning Platform – Enables students to learn through videos, ask AI-driven questions, and get career guidance in the community section.
+
+⚙️ Enhancing programming skills through Java examples and JavaScript-based mini-projects.
+
+💡 What I’m Learning:
+
+Deepening knowledge in React, Node.js, and MongoDB.
+
+Exploring Python for data science and automation.
+
+Learning Java and Springboot for enhanching Backend Systems.
+
+🚀 Goals:
+
+To create impactful projects that solve real-world challenges.
+
+To contribute to open-source communities and strengthen my portfolio.
+
+To become technically strong and prepare for top tech companies by early 2026.
 
 
 # 💻 Tech Stack:
@@ -12,8 +43,7 @@ Hi, I’m Ella Lakshman 👋<br>I’m currently a B.Tech  student specializing i
 ### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=laxman2546&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=laxman2546&icon=0&color=0)](https://visitcount.itsvg.in)
