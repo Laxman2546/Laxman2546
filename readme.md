@@ -3,12 +3,12 @@ Hi, I’m Ella Lakshman 👋
 I’m currently pursuing B.Tech in Data Science at Mallareddy Institute of Technology and Sciences.
 I’m passionate about building real-world solutions using the MERN Stack and integrating AI to make learning and problem-solving smarter.
 
-💼 Current Internship:
+# 💼 Current Internship:
 
 I’m currently interning at Bussiness X Data, where I’m working on real-world MERN stack development — integrating Razorpay payment gateways, managing MongoDB databases, and optimizing frontend-backend workflows for smooth user experiences.
 This internship is helping me gain strong hands-on experience in full-stack web development and real-time project deployment.
 
-🔧 Current Projects:
+# 🔧 Current Projects:
 
 💻 Freelancer Collaboration Platform (Mini Upwork) – A MERN stack project that connects freelancers and clients for real-time collaboration.
 
@@ -16,7 +16,7 @@ This internship is helping me gain strong hands-on experience in full-stack web 
 
 ⚙️ Enhancing programming skills through Java examples and JavaScript-based mini-projects.
 
-💡 What I’m Learning:
+# 💡 What I’m Learning:
 
 Deepening knowledge in React, Node.js, and MongoDB.
 
@@ -24,7 +24,7 @@ Exploring Python for data science and automation.
 
 Learning Java and Springboot for enhanching Backend Systems.
 
-🚀 Goals:
+# 🚀 Goals:
 
 To create impactful projects that solve real-world challenges.
 
