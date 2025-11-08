@@ -6,7 +6,7 @@ I’m passionate about building real-world solutions using the **MERN Stack** an
 ---
 
 # 💼 Current Internship:
-I’m currently interning at **Business X Data**, where I’m working on real-world **MERN stack development** — integrating **Razorpay payment gateways**, managing **MongoDB databases**, and optimizing frontend-backend workflows for smooth user experiences.  
+I’m currently interning at **Business X Data**, where I’m working on real-world **MERN stack development** — integrated **payment gateways**, managing **MongoDB databases**, and optimizing frontend-backend workflows for smooth user experiences.  
 This internship is helping me gain strong hands-on experience in **full-stack web development** and **real-time project deployment**.
 
 ---
