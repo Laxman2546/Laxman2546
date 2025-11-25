@@ -57,8 +57,6 @@ This internship is helping me gain strong hands-on experience in **full-stack we
 ---
 
 
----
-
 ## 🔥 GitHub Streak Stats  
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=laxman2546&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
