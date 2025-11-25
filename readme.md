@@ -56,8 +56,6 @@ This internship is helping me gain strong hands-on experience in **full-stack we
 
 ---
 
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=laxman2546&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
